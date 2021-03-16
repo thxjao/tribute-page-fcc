@@ -5,3 +5,8 @@ Para finalização do curso de Web Design Responsivo do curso da Free Code Camp 
 ---
 
 ## Design
+
+<img src="./img/tribute.gif"/>
+
+<img src="./img/mockup.png"/>
+
